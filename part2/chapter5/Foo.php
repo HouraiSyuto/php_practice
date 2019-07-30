@@ -8,3 +8,5 @@ function __autoload($name)
 }
 
 $obj = new Foo();
+
+
